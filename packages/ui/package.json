@@ -1,0 +1,9 @@
+{
+  "name": "@garlic/ui",
+  "version": "0.0.1",
+  "main": "./src/index.ts",
+  "description": "UI components for garlic",
+  "dependencies": {
+    "@garlic/types": "workspace:*"
+  }
+}

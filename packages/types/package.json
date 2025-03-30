@@ -1,0 +1,7 @@
+{
+  "name": "@garlic/types",
+  "version": "0.0.1",
+  "main": "src/index.d.ts",
+  "types": "src/index.d.ts",
+  "description": "Types for garlic"
+}
